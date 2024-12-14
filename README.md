@@ -14,6 +14,12 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   </p> 
+<!--   <b>Coding and Languages</b>
+<ul>
+  <li><a href="https://www.cprogramming.com/"><i>C++</i>   </a></li>
+  <li><a href="https://www.w3.org/html/"><i><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></i></a></li>
+  <li><a href="https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173"><i>The Ultimate Checklist for Starting a React Project: Best Practices and Tips</i></a></li>
+</ul> -->
 <!---
 Palak25-hub/Palak25-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
