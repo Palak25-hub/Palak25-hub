@@ -1,4 +1,4 @@
-_Hi 👋 , I’m Palak_ <br/>
+<h1> _Hi 👋 , I’m Palak_ <br/> </h1>
 <b>A curious and innovative developer from India</b> <br/> 
 - 👀 I’m interested in developing projects using MERN stack, HTML, CSS, JavaScript, TypeScript
 - 🌱 I’m currently learning Java
